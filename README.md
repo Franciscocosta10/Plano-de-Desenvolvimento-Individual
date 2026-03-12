@@ -1,17 +1,17 @@
 # Plano-de-Desenvolvimento-Individual
 1. Objetivo do Semestre
 
-Meu objetivo ao longo deste semestre é aprofundar meus conhecimentos em algoritmos e lógica de programação, desenvolvendo uma compreensão mais sólida sobre estruturas e soluções eficientes para problemas computacionais. Tenho motivação para aprender esses conceitos porque sei que algoritmos são a base da engenharia de software e fundamentais para escrever códigos mais eficientes, organizados e escaláveis. Ao final da disciplina, espero dominar melhor a análise e implementação de algoritmos mais complexos, melhorando minha capacidade de resolver problemas de forma estruturada. Esse aprendizado contribuirá diretamente para minha formação como engenheiro de software e para minha atuação profissional na área de tecnologia, especialmente no desenvolvimento e qualidade de software.
+Meu objetivo ao longo deste semestre é aprofundar meus conhecimentos em algoritmos e lógica de programação, desenvolvendo uma compreensão mais sólida sobre estruturas e soluções eficientes para problemas computacionais. Tenho motivação para aprender esses conceitos porque sei que algoritmos são a base da engenharia de software e fundamentais para escrever códigos mais eficientes, organizados e escaláveis, além de conhecimento necessário para processos seletivos. Ao final da disciplina, espero ter um conhecimento intermediário em relação á análise e implementação de algoritmos mais complexos, melhorando minha capacidade de resolver problemas de forma estruturada.
 
 2. Onde estou hoje (Diagnóstico atual)
 
-Atualmente possuo conhecimento em lógica de programação e já tive contato com algumas linguagens e conceitos básicos de desenvolvimento de software durante o curso de Engenharia de Software. Tenho familiaridade com estruturas como condicionais, loops e funções, além de já ter desenvolvido pequenos projetos acadêmicos.
+Atualmente possuo conhecimento em lógica de programação e já tive contato com algumas linguagens e conceitos básicos de desenvolvimento de software durante o curso de Engenharia de Software. Tenho familiaridade com estruturas como condicionais, loops e funções, além de já ter desenvolvido médios projetos acadêmicos.
 
 No entanto, ainda preciso evoluir em aspectos mais avançados relacionados a algoritmos, como otimização de soluções, análise de complexidade, estruturas de dados mais avançadas e resolução de problemas mais desafiadores.
 
 3. Onde quero chegar
 
-Ao final do semestre, meu objetivo é ser capaz de compreender, analisar e implementar algoritmos mais avançados, aplicando boas práticas de programação e escolhendo soluções eficientes para diferentes tipos de problemas.
+Ao final do semestre, meu objetivo é ser capaz de compreender, analisar e implementar algoritmos mais avançados, aplicando boas práticas de programação e escolhendo soluções eficientes para diferentes tipos de problemas, chegando no nível intermedíario de entendimento em algoritimos avançados.
 
 Também quero desenvolver mais confiança na resolução de desafios algorítmicos e melhorar minha capacidade de pensar de forma lógica e estruturada ao desenvolver soluções.
 
