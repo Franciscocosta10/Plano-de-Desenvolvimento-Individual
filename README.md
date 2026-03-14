@@ -78,23 +78,22 @@ Ainda tenho dificuldade em trabalhar com algoritmos específicos de grafos e em 
 Meta 1 — Melhorar a análise de complexidade de algoritmos
 
 Contexto
+
 A análise de complexidade é fundamental para avaliar a eficiência de algoritmos e escolher a melhor solução para um problema.
 
 Descrição
+
 Desenvolver a capacidade de analisar algoritmos e identificar corretamente sua complexidade de tempo e espaço.
 
 Plano de ação
 
 Resolver exercícios de implementação de algoritmos de ordenação.
-
 Resolver exercícios de análise de algoritmos.
-
 Comparar diferentes implementações de soluções.
 
 Medição
 
 Conseguir identificar corretamente a complexidade de algoritmos propostos em exercícios.
-
 Resolver exercícios semanais relacionados ao tema.
 
 Prazo
@@ -104,15 +103,16 @@ Até a metade do semestre.
 Meta 2 — Aprender a aplicar recursão e programação dinâmica
 
 Contexto
+
 Essas técnicas são importantes para resolver problemas complexos de forma eficiente.
 
 Descrição
+
 Ser capaz de implementar algoritmos recursivos e soluções com programação dinâmica.
 
 Plano de ação
 
 Estudar exemplos clássicos como Fibonacci, mochila e problemas de otimização.
-
 Implementar algoritmos em código para fixar o conteúdo.
 
 Medição
@@ -126,17 +126,17 @@ Até o final do semestre.
 Meta 3 — Desenvolver habilidades em resolução de problemas algorítmicos
 
 Contexto
+
 A prática constante é fundamental para desenvolver raciocínio lógico e habilidade na criação de algoritmos.
 
 Descrição
+
 Resolver desafios de programação para melhorar a capacidade de análise e solução de problemas.
 
 Plano de ação
 
 Resolver exercícios semanalmente.
-
 Praticar as atividades passadas da disciplina.
-
 Fazer revisão de cada aula.
 
 Medição
