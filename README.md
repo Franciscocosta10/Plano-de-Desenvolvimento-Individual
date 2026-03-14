@@ -13,7 +13,7 @@ Esse aprendizado é importante para minha formação em Engenharia de Software, 
 
 **2. Diagnóstico Inicial**
 
-Análise de Complexidade
+**Análise de Complexidade**
 
 O que eu já sei fazer:
 
@@ -23,7 +23,7 @@ O que ainda gera dificuldade:
 
 Ainda tenho dificuldade em analisar algoritmos mais complexos e determinar sua complexidade com precisão, principalmente quando envolvem múltiplos loops, recursão ou estruturas de dados mais avançadas.
 
-Divisão e Conquista
+**Divisão e Conquista**
 
 O que eu já sei fazer:
 
@@ -33,7 +33,7 @@ O que ainda gera dificuldade:
 
 Ainda preciso melhorar minha capacidade de aplicar essa estratégia na prática e identificar quando um problema pode ser resolvido.
 
-Recursão
+**Recursão**
 
 O que eu já sei fazer:
 
@@ -43,7 +43,7 @@ O que ainda gera dificuldade:
 
 Tenho dificuldade em visualizar o fluxo de execução de funções recursivas mais complexas.
 
-Programação Dinâmica
+**Programação Dinâmica**
 
 O que eu já sei fazer:
 
@@ -53,7 +53,7 @@ O que ainda gera dificuldade:
 
 Ainda tenho pouca prática na implementação desse tipo de solução e dificuldade em identificar quando um problema pode ser resolvido utilizando programação dinâmica.
 
-Estruturas de Dados
+**Estruturas de Dados**
 
 O que eu já sei fazer:
 
@@ -63,7 +63,7 @@ O que ainda gera dificuldade:
 
 Preciso aprofundar meu conhecimento em estruturas de dados mais avançadas e entender melhor quando utilizar cada estrutura para melhorar a eficiência de um algoritmo.
 
-Grafos
+**Grafos**
 
 O que eu já sei fazer:
 
@@ -77,73 +77,73 @@ Ainda tenho dificuldade em trabalhar com algoritmos específicos de grafos e em 
 
 Meta 1 — Melhorar a análise de complexidade de algoritmos
 
-Contexto
+**Contexto**
 
 A análise de complexidade é fundamental para avaliar a eficiência de algoritmos e escolher a melhor solução para um problema.
 
-Descrição
+**Descrição**
 
 Desenvolver a capacidade de analisar algoritmos e identificar corretamente sua complexidade de tempo e espaço.
 
-Plano de ação
+**Plano de ação**
 
 Resolver exercícios de implementação de algoritmos de ordenação.
 Resolver exercícios de análise de algoritmos.
 Comparar diferentes implementações de soluções.
 
-Medição
+**Medição**
 
 Conseguir identificar corretamente a complexidade de algoritmos propostos em exercícios.
 Resolver exercícios semanais relacionados ao tema.
 
-Prazo
+**Prazo**
 
 Até a metade do semestre.
 
 Meta 2 — Aprender a aplicar recursão e programação dinâmica
 
-Contexto
+**Contexto**
 
 Essas técnicas são importantes para resolver problemas complexos de forma eficiente.
 
-Descrição
+**Descrição**
 
 Ser capaz de implementar algoritmos recursivos e soluções com programação dinâmica.
 
-Plano de ação
+**Plano de ação**
 
 Estudar exemplos clássicos como Fibonacci, mochila e problemas de otimização.
 Implementar algoritmos em código para fixar o conteúdo.
 
-Medição
+**Medição**
 
 Implementar pelo menos três algoritmos utilizando essas técnicas.
 
-Prazo
+**Prazo**
 
 Até o final do semestre.
 
 Meta 3 — Desenvolver habilidades em resolução de problemas algorítmicos
 
-Contexto
+**Contexto**
 
 A prática constante é fundamental para desenvolver raciocínio lógico e habilidade na criação de algoritmos.
 
-Descrição
+**Descrição**
 
 Resolver desafios de programação para melhorar a capacidade de análise e solução de problemas.
 
-Plano de ação
+**Plano de ação**
 
 Resolver exercícios semanalmente.
 Praticar as atividades passadas da disciplina.
 Fazer revisão de cada aula.
 
-Medição
+**Medição**
 
 Resolver pelo menos três problemas de algoritmos por semana.
 
-Prazo
+**Prazo**
 
 Durante todo o semestre.
 
