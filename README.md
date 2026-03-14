@@ -3,7 +3,7 @@
 Disciplina: Algoritmos Avançados
 Curso: Engenharia de Software
 
-1. Objetivo do Semestre
+**1. Objetivo do Semestre**
 
 Minha motivação na disciplina de Algoritmos Avançados é aprofundar meu conhecimento em lógica e resolução de problemas em algoritimos avançados, entendendo como construir soluções mais eficientes e bem estruturadas. 
 
@@ -11,7 +11,7 @@ Ao longo do semestre, desejo dominar melhor conceitos como análise de complexid
 
 Esse aprendizado é importante para minha formação em Engenharia de Software, pois algoritmos avançados são fundamentais para o desenvolvimento de sistemas complexos, eficientes e escaláveis, além de contribuir para minha evolução profissional na área de tecnologia e desenvolvimento de software.
 
-2. Diagnóstico Inicial
+**2. Diagnóstico Inicial**
 
 Análise de Complexidade
 
@@ -73,7 +73,7 @@ O que ainda gera dificuldade:
 
 Ainda tenho dificuldade em trabalhar com algoritmos específicos de grafos e em aplicar esses conceitos na resolução de problemas práticos.
 
-3. Metas Técnicas
+**3. Metas Técnicas**
 Meta 1 — Melhorar a análise de complexidade de algoritmos
 
 Contexto
@@ -146,7 +146,7 @@ Prazo
 
 Durante todo o semestre.
 
-4. Rotina Semanal de Estudo
+**4. Rotina Semanal de Estudo**
 
 Para garantir evolução constante, pretendo manter uma rotina fixa de estudo durante a semana.
 
@@ -174,7 +174,7 @@ Horário: 10h às 11h30
 
 Atividade: Implementação prática de algoritmos estudados.
 
-5. Plano de Uso de IA
+**5. Plano de Uso de IA**
 
 A inteligência artificial será utilizada como uma ferramenta de apoio ao aprendizado durante a disciplina.
 
