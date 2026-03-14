@@ -74,6 +74,7 @@ O que ainda gera dificuldade:
 Ainda tenho dificuldade em trabalhar com algoritmos específicos de grafos e em aplicar esses conceitos na resolução de problemas práticos.
 
 **3. Metas Técnicas**
+
 Meta 1 — Melhorar a análise de complexidade de algoritmos
 
 Contexto
