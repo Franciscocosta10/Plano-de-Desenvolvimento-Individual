@@ -1,6 +1,7 @@
 # Plano-de-Desenvolvimento-Individual
 
 Disciplina: Algoritmos Avançados
+
 Curso: Engenharia de Software
 
 **1. Objetivo do Semestre**
