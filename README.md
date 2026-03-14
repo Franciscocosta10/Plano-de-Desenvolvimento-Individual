@@ -75,7 +75,7 @@ Ainda tenho dificuldade em trabalhar com algoritmos específicos de grafos e em 
 
 **3. Metas Técnicas**
 
-Meta 1 — Melhorar a análise de complexidade de algoritmos
+**Meta 1 — Melhorar a análise de complexidade de algoritmos**
 
 **Contexto**
 
@@ -100,7 +100,7 @@ Resolver exercícios semanais relacionados ao tema.
 
 Até a metade do semestre.
 
-Meta 2 — Aprender a aplicar recursão e programação dinâmica
+**Meta 2 — Aprender a aplicar recursão e programação dinâmica**
 
 **Contexto**
 
@@ -123,7 +123,7 @@ Implementar pelo menos três algoritmos utilizando essas técnicas.
 
 Até o final do semestre.
 
-Meta 3 — Desenvolver habilidades em resolução de problemas algorítmicos
+**Meta 3 — Desenvolver habilidades em resolução de problemas algorítmicos**
 
 **Contexto**
 
