@@ -151,7 +151,7 @@ Durante todo o semestre.
 
 Para garantir evolução constante, pretendo manter uma rotina fixa de estudo durante a semana.
 
-Bloco 1
+**Bloco 1**
 
 Dia: Segunda-feira
 
@@ -159,7 +159,7 @@ Horário: 16:30h às 17:30h
 
 Atividade: Revisão teórica do conteúdo apresentado em aula.
 
-Bloco 2
+**Bloco 2**
 
 Dia: Quarta-feira
 
@@ -167,7 +167,7 @@ Horário: 19h às 20h
 
 Atividade: Resolução de exercícios de algoritmos.
 
-Bloco 3
+**Bloco 3**
 
 Dia: Sábado
 
